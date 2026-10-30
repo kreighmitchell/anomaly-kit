@@ -1,0 +1,4 @@
+*.R linguist-language=R
+*.r linguist-language=R
+*.Rd linguist-language=R
+*.md linguist-documentation
